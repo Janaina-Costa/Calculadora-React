@@ -1,0 +1,23 @@
+:root{
+    --bg-display:#ffffff71;
+    --border-display: solid 1px #888
+
+}
+
+.display{
+    align-items: center;
+    background-color: var(--bg-display);
+    border-radius: 5px;
+    display: flex;
+    
+    grid-column: span 4;
+    row-gap: 2px;
+    justify-items: left;
+    justify-content: flex-end;
+    margin-bottom: 5px;
+    
+    padding: 20px;
+    overflow: hidden;
+    
+
+}

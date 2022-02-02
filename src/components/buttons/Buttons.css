@@ -1,0 +1,43 @@
+:root{
+    --bg-button:#ffffffd3;
+    --border-button: solid 1px #888
+
+}
+div{
+    margin-bottom: 6px;
+}
+
+.buttons{
+    font-size: 1.4em; 
+    font-weight: 700;   
+    background-color: var(--bg-button);
+    border:none;
+    border-right: var(--border-button);
+    border-bottom: var(--border-button);
+    outline: none;
+    border-radius: 20%;
+
+    min-width: 48px;
+    height: 48px;  
+    
+  
+}
+.buttons:active{
+    background-color: #ccc;
+}
+.buttons.double{
+    border-radius: 8%;
+    grid-column: span 2;
+}
+.buttons.triple{
+   
+    grid-column: span 3;
+}
+.buttons.operation{
+    
+    background-color:rgba(92, 7, 250, 0.568) ;
+    color: #fff;
+}
+.buttons.operation:active{
+    background-color: rgba(86, 3, 219, 0.842);
+}

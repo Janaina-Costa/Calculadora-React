@@ -1,0 +1,32 @@
+h1{
+    color:#fff;
+    font-weight: 800;
+}
+span.letraC:hover{
+    color:rgb(92, 7, 250) ;
+    font-size: 46PX;
+}
+span.letraA:hover{
+    color:rgba(230, 7, 250, 0.973) ;
+    font-size: 46PX;
+}
+span.letraL:hover{
+    color:rgba(145, 250, 7, 0.952) ;
+    font-size: 46PX;
+}
+span.letraU:hover{
+    color:rgba(31, 7, 250, 0.568) ;
+    font-size: 46PX;
+}
+span.letraD:hover{
+    color:rgba(250, 7, 7, 0.767) ;
+    font-size: 46PX;
+}
+span.letraO:hover{
+    color:rgba(7, 141, 250, 0.938) ;
+    font-size: 46PX;
+}
+span.letraR:hover{
+    color:rgba(250, 153, 7, 0.959) ;
+    font-size: 46PX;
+}
