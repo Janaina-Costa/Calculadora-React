@@ -11,10 +11,10 @@ const Title = ()=>{
               <span className='letraU'>U</span> 
               <span className='letraL'>L</span> 
               <span className='letraA'>A</span> 
-              <span className='letraD'>D</span> 
+              <span className='letraT'>T</span> 
               <span className='letraO'>O</span> 
               <span className='letraR'>R</span> 
-              <span className='letraA'>A</span> 
+             
             </h1>
         </div>
     )
